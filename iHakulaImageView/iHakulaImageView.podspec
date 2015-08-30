@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.platform                 = :ios
 s.ios.deployment_target    = '7.1'
-s.version                  = "0.1.0"
+s.version                  = "0.2.0"
 s.name                     = "iHakulaImageView"
 s.author                   = { "Wayde Sun" => "wsun191@gmail.com" }
 s.homepage                 = "https://github.com/wayde191/iHakulaImageView"

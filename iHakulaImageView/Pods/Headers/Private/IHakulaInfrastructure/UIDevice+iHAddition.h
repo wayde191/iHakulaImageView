@@ -1,1 +1,1 @@
-../../../../../../IHakulaInfrastructure/IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIDevice+iHAddition.h
+../../../IHakulaInfrastructure/IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIDevice+iHAddition.h

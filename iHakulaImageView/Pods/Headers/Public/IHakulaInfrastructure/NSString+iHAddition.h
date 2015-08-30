@@ -1,1 +1,1 @@
-../../../../../../IHakulaInfrastructure/IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSString+iHAddition.h
+../../../IHakulaInfrastructure/IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSString+iHAddition.h

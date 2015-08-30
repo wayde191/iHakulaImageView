@@ -83,11 +83,8 @@ PODS:
   - Reachability (3.2)
 
 DEPENDENCIES:
-  - IHakulaInfrastructure (from `/Users/CNwwsun/iHakula/IHakulaInfrastructure`)
-
-EXTERNAL SOURCES:
-  IHakulaInfrastructure:
-    :path: "/Users/CNwwsun/iHakula/IHakulaInfrastructure"
+  - IHakulaInfrastructure (~> 0.2.0)
+  - Reachability
 
 SPEC CHECKSUMS:
   IHakulaInfrastructure: aec078c1b3bd9837afcb91a1899d459ccda8d61f
