@@ -1,5 +1,4 @@
 source 'https://github.com/CocoaPods/Specs.git'
-#source 'https://github.com/wayde191/IHakulaSpecs.git'
 
 platform :ios, '7.1'
 
