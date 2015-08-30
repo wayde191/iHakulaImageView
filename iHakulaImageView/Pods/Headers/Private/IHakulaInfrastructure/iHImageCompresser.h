@@ -1,1 +1,1 @@
-../../../../../../IHakulaInfrastructure/IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHImageCompresser/iHImageCompresser.h
+../../../IHakulaInfrastructure/IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHImageCompresser/iHImageCompresser.h
