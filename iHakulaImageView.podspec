@@ -23,7 +23,8 @@ stretch.source_files = "#{s.name}/#{s.name}/iHStretchableView/*.{h,m}"
 end
 
 s.subspec 'iHPageView' do |page|
-page.source_files = "#{s.name}/#{s.name}/iHPageView/**/*.{h,m,png}"
+page.source_files = "#{s.name}/#{s.name}/iHPageView/**/*.{h,m}"
+page.resources = "#{s.name}/#{s.name}/iHPageView/**/*.{png}"
 end
 
 s.subspec 'iHImageView' do |image|
@@ -32,7 +33,8 @@ end
 
 s.subspec 'iHImageSlideView' do |slide|
 slide.dependency "#{s.name}/iHImageView"
-slide.source_files = "#{s.name}/#{s.name}/iHImageSlideView/*.{h,m,png}"
+slide.source_files = "#{s.name}/#{s.name}/iHImageSlideView/*.{h,m}"
+slide.resources = "#{s.name}/#{s.name}/iHImageSlideView/*.{png}"
 end
 
 end
